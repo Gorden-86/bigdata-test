@@ -17,39 +17,8 @@
 
 
 ## 如何使用
-### 一、系统截图
-- 登录
-![登录](images/login.png)
-- 首页
-![首页](images/index.png)
-- 元数据-数据源类型
-![元数据-数据源类型](images/datasource-type.png)
-- 元数据-数据源定义
-![元数据-数据源定义](images/datasource-define.png)
-- 元数据-数据表查询
-![元数据-数据表查询](images/datasource_table.png)
-- 数据采集-任务定义
-![数据采集-任务定义](images/data-collect-job-define.png)
-- 数据采集-任务实例
-![数据采集-任务实例](images/data-collect-job-instance.png)
-- flink开发-任务定义
-![flink开发-任务定义](images/flink-job-define.png)
-![flink开发-任务定义](images/flink-job-edit.png)
-- flink开发-任务实例
-![flink开发-任务实例](images/flink-job-instance.png)
-- flink开发-任务定义
-![spark开发-任务定义](images/spark-job-define.png)
-![spark开发-任务定义](images/spark-job-edit.png)
-- spark开发-任务实例
-![spark开发-任务实例](images/spark-job-instance.png)
-- 统一API-API定义
-![统一API-API定义](images/oneApi.png)
-- 资源中心-环境管理
-![配置中心-环境管理](images/system-env.png)
-- 资源中心-资源管理
-![配置中心-资源管理](images/system-resource.png)
-- 资源中心-分组管理
-![资源中心-分组管理](images/catalog.png)
+### 一、开发方向
+利用AI分析统一监测，实时预警和智能调控相关数据的高校碳足迹平台。
 ### 二、开发环境
 
 - JDK
